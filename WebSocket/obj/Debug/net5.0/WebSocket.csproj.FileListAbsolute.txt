@@ -1,0 +1,16 @@
+D:\WebSocket\WebSocket\bin\Debug\net5.0\WebSocket.exe
+D:\WebSocket\WebSocket\bin\Debug\net5.0\WebSocket.deps.json
+D:\WebSocket\WebSocket\bin\Debug\net5.0\WebSocket.runtimeconfig.json
+D:\WebSocket\WebSocket\bin\Debug\net5.0\WebSocket.runtimeconfig.dev.json
+D:\WebSocket\WebSocket\bin\Debug\net5.0\WebSocket.dll
+D:\WebSocket\WebSocket\bin\Debug\net5.0\ref\WebSocket.dll
+D:\WebSocket\WebSocket\bin\Debug\net5.0\WebSocket.pdb
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.csprojAssemblyReference.cache
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.AssemblyInfoInputs.cache
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.AssemblyInfo.cs
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.csproj.CoreCompileInputs.cache
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.dll
+D:\WebSocket\WebSocket\obj\Debug\net5.0\ref\WebSocket.dll
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.pdb
+D:\WebSocket\WebSocket\obj\Debug\net5.0\WebSocket.genruntimeconfig.cache
